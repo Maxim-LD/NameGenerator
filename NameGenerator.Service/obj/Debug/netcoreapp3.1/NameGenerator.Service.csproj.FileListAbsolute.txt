@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\bin\Debug\netcoreapp3.1\NameGenerator.Service.deps.json
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\bin\Debug\netcoreapp3.1\NameGenerator.Service.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\bin\Debug\netcoreapp3.1\NameGenerator.Service.pdb
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\bin\Debug\netcoreapp3.1\NameGenerator.Model.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\bin\Debug\netcoreapp3.1\NameGenerator.Model.pdb
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.csproj.CopyComplete
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.pdb

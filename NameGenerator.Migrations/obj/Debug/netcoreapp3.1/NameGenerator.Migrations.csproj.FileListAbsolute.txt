@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\bin\Debug\netcoreapp3.1\NameGenerator.Migrations.deps.json
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\bin\Debug\netcoreapp3.1\NameGenerator.Migrations.runtimeconfig.json
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\bin\Debug\netcoreapp3.1\NameGenerator.Migrations.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\bin\Debug\netcoreapp3.1\NameGenerator.Migrations.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\bin\Debug\netcoreapp3.1\NameGenerator.Migrations.pdb
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\bin\Debug\netcoreapp3.1\NameGenerator.Model.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\bin\Debug\netcoreapp3.1\NameGenerator.Model.pdb
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\obj\Debug\netcoreapp3.1\NameGenerator.Migrations.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\obj\Debug\netcoreapp3.1\NameGenerator.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\obj\Debug\netcoreapp3.1\NameGenerator.Migrations.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\obj\Debug\netcoreapp3.1\NameGenerator.Migrations.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\obj\Debug\netcoreapp3.1\NameGenerator.Migrations.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\obj\Debug\netcoreapp3.1\NameGenerator.Migrations.csproj.CopyComplete
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\obj\Debug\netcoreapp3.1\NameGenerator.Migrations.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\obj\Debug\netcoreapp3.1\NameGenerator.Migrations.pdb
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Migrations\obj\Debug\netcoreapp3.1\NameGenerator.Migrations.genruntimeconfig.cache
