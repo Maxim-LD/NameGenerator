@@ -14,7 +14,7 @@ namespace NameGenerator.Migrations
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<DetailedProfile>().ToTable("BasicProfile");
+            modelBuilder.Entity<DetailedProfile>().ToTable("DetailedProfile");
         }
 
         public DbSet<DetailedProfile> DetailedProfiles { get; set; }
