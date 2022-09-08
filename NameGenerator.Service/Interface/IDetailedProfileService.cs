@@ -7,6 +7,9 @@ namespace NameGenerator.Service.Interface
 {
     public interface IDetailedProfileService
     {
-        public BasicProfileDetailsResponseViewModel GeneratedProfile(BasicProfileDetailsRequestViewModel model);
+        public BaseResponseViewModel GenerateProfile(BasicProfileDetailsRequestViewModel model);
+        public BasicProfileDetailsResponseViewModel SearchById(Guid id);
+        public BaseResponseViewModel UpdateProfile(ProfileDetailsUpdateRequestViewModel model);
+        public BaseResponseViewModel DeleteProfile(Guid id);
     }
 }
