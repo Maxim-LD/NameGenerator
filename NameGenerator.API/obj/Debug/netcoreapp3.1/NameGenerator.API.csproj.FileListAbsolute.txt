@@ -66,3 +66,10 @@ C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\obj\Debug\netcoreapp3
 C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\obj\Debug\netcoreapp3.1\NameGenerator.API.dll
 C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\obj\Debug\netcoreapp3.1\NameGenerator.API.pdb
 C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\obj\Debug\netcoreapp3.1\NameGenerator.API.genruntimeconfig.cache
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\obj\Debug\netcoreapp3.1\NameGenerator.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll

@@ -11,3 +11,5 @@ C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcore
 C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.csproj.CopyComplete
 C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.dll
 C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\obj\Debug\netcoreapp3.1\NameGenerator.Service.pdb
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\bin\Debug\netcoreapp3.1\NameGenerator.Migrations.dll
+C:\Users\DELL\source\repos\NameGenerator\NameGenerator.Service\bin\Debug\netcoreapp3.1\NameGenerator.Migrations.pdb
